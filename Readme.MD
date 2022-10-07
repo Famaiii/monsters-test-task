@@ -23,3 +23,5 @@
 <li>axios для обработки запросов</li>
 <li>macro-css для удобства верстки</li>
 </ul>
+
+<a href='https://monsters-test-task.herokuapp.com/'>Результат можно посмотреть здесь</a>
