@@ -16,7 +16,7 @@
 <li>React.js</li>
 <li>React-router</li>
 <li>React-pagination</li>
-<li>React sceleton</li>
+<li>React skeleton</li>
 <li>React hooks (Usecontext использовал только для демонстрации понимания)</li>
 <li>Данные хранятся в localStorage</li>
 <li>SCSS</li>
